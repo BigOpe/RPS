@@ -1,2 +1,2 @@
 # djangoproj1
-django-ope
+django-opeyemi
